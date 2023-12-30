@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/VenkyRock0/static/css/main.bf538fe7.css",
-    "main.js": "/VenkyRock0/static/js/main.5470fbac.js",
+    "main.js": "/VenkyRock0/static/js/main.0dcbcb39.js",
     "static/media/HeroImage.jpg": "/VenkyRock0/static/media/HeroImage.77b8f74aa435c1d8f21d.jpg",
     "index.html": "/VenkyRock0/index.html",
     "main.bf538fe7.css.map": "/VenkyRock0/static/css/main.bf538fe7.css.map",
-    "main.5470fbac.js.map": "/VenkyRock0/static/js/main.5470fbac.js.map"
+    "main.0dcbcb39.js.map": "/VenkyRock0/static/js/main.0dcbcb39.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.5470fbac.js"
+    "static/js/main.0dcbcb39.js"
   ]
 }
